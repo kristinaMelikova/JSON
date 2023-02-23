@@ -1,0 +1,21 @@
+{
+	"skills":{
+		"1": "basic_theory",
+		"2": "HTTP-requests",
+		"3": "JSON",
+		"4": "XML",
+		"5": "Postman",
+		"6": "API",
+		"7": "Dev_Tools",
+		"8": "Mobile_testing",
+		"9": "ADB",
+		"10": "Terminal_Linux",
+		"11": "bash",
+		"12": "SQL",
+		"13": "Postgres",
+		"14": "Redis",
+		"15": "Python"
+	}
+
+
+}
